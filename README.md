@@ -5,7 +5,7 @@
 
 <br>
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
 
 ## Built with
 
@@ -31,7 +31,7 @@ $ npm install
 $ node index <URL> <location>
 ```
 
-Replace `<URL>` with actual page url and `<location>` with acutal download location if you also download want to download
+Replace `<URL>` with actual page URL and `<location>` with acutal download location if you also download want to download
 
 ## Author
 
