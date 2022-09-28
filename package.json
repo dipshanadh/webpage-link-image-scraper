@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {},
 	"keywords": [],
-	"author": "",
+	"author": "Dipshan Adhikari",
 	"license": "ISC",
 	"dependencies": {
 		"axios": "^0.27.2",
