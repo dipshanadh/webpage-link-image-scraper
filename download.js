@@ -13,7 +13,7 @@ const download = async (images, downloadPath) => {
 
 		console.log("Downloading " + fileName)
 
-		// Downloading the file using axio
+		// Downloading the file using axios
 		try {
 			const response = await Axios({
 				url,
