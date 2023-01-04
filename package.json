@@ -1,5 +1,5 @@
 {
-	"name": "webpage-link-image-scraper",
+	"name": "webpage-image-scraper",
 	"version": "1.0.0",
 	"description": "A tool that can scrape and download all of the images found on a website.",
 	"main": "index.js",
