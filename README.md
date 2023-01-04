@@ -1,4 +1,4 @@
-<h1 align="center">Webpage Link Image Scraper</h1>
+<h1 align="center">Webpage Image Scraper</h1>
 <h3 align="center">
   A tool that can scrape and download all of the images found on a website
 </h3>
